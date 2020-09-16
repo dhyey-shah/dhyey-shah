@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently building CAFE-a programming language
+- 🌱 I’m currently learning CAFE- the programming language
+- 👯 I’m looking to collaborate on Github
+- 💬 Ask me about JAVA/ CAFE
+- 📫 How to reach me: dhyeyshah4@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I am a machine that converts coffee into code.
