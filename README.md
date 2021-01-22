@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently building CAFE-a programming language
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cafe-jvm-lang&repo=cafe)](https://github.com/cafe-jvm-lang/cafe)
+
 - 🌱 I’m currently learning CAFE- the programming language
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about JAVA/ CAFE
