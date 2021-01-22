@@ -15,10 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently building CAFE-a programming language <br>
+- 🔭 I’m currently building CAFE-a programming language <br><br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cafe-jvm-lang&repo=cafe)](https://github.com/cafe-jvm-lang/cafe)
 
 - 🌱 I’m currently learning CAFE- the programming language
+
+  ```javascript
+    func Hello(){
+      cmd.println("Hello, World");
+    }
+  ```
+<br>
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about JAVA/ CAFE
 - 📫 How to reach me: dhyeyshah4@gmail.com
