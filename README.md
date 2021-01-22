@@ -25,7 +25,6 @@ Here are some ideas to get you started:
       cmd.println("Hello, World");
     }
   ```
-<br>
 - 👯 I’m looking to collaborate on Github
 - 💬 Ask me about JAVA/ CAFE
 - 📫 How to reach me: dhyeyshah4@gmail.com
